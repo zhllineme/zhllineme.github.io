@@ -1,0 +1,1 @@
+Hi，我是雨冻住了，游戏行业coder，主要作业在客户端领域，偶尔混迹于服务端。专注于移动领域，涉猎于cocos2dx，unity，laya，android等。
