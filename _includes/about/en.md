@@ -1,1 +1,1 @@
-Hi, I am D_sherlock, a programmer in the game industry who works mainly on the client side and occasionally on the server side. Focused on mobile, be bent on Cocos2dx, Unity, Laya, Android, etc.
+Hi, I am frozen rain, a programmer in the game industry who works mainly on the client side and occasionally on the server side. Focused on mobile, be bent on Cocos2dx, Unity, Laya, Android, etc.
