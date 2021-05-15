@@ -39,9 +39,11 @@ task :post do
     post.puts "subtitle: \"#{subtitle.gsub(/-/,' ')}\""
     post.puts "date: #{date}"
     post.puts "author: \"雨冻住了\""
-    post.puts "header-img: \"img/post-bg-default.jpg\""
+    # post.puts "header-img: \"img/post-bg-default.jpg\""
+    post.puts "header-style: text"
     post.puts "tags: []"
     post.puts "---"
+    post.puts ">  转载请注明出处： https://zhllineme.github.io/#{date}-#{slug}"
   end
 end # task :post
 
